@@ -18,3 +18,4 @@ git submodule init
 git submodule update
 pnpm i
 ```
+lol
